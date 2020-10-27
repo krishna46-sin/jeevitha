@@ -1,0 +1,22 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "abt node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node apps.js",
+    "dev": "nodemon apps.js"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "jeevitha",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.2"
+  }
+}

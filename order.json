@@ -1,0 +1,50 @@
+db.order.insertMany([
+    {
+    "id":2345,
+    "name":"abc",
+    "phone":"12345",
+    "address":"abc",
+    "person":2,
+    "res":"north valley"
+},
+{
+    "id":2346,
+    "name":"akash",
+    "phone":"12345",
+    "address":"abc",
+    "person":2,
+    "res":"south valley"
+},
+{
+    "id":2335,
+    "name":"jeevi",
+    "phone":"12345",
+    "address":"abc",
+    "person":2,
+    "res":"china valley"
+},
+{
+    "id":2345,
+    "name":"kp",
+    "phone":"12345",
+    "address":"abc",
+    "person":2,
+    "res":"north valley"
+},
+{
+    "id":2346,
+    "name":"akash",
+    "phone":"12345",
+    "address":"abc",
+    "person":2,
+    "res":"south valley"
+},
+{
+    "id":2335,
+    "name":"jeevi",
+    "phone":"12345",
+    "address":"abc",
+    "person":2,
+    "res":"china valley"
+}
+])
